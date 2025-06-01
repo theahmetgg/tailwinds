@@ -9,7 +9,7 @@ To get started, first copy the component files included in the downloaded ZIP fi
 Next, install the dependencies used by the components in Catalyst:
 
 ```sh
-npm install @headlessui/react framer-motion clsx
+npm install @headlessui/react framer-motion clsx a
 ```
 
 Catalyst is also designed for the latest version of Tailwind CSS, which is currently Tailwind CSS v3.4. To make sure that you are on the latest version of Tailwind, update it via npm:
